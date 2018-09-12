@@ -1,4 +1,4 @@
-
+2
 from sys import argv
 
 import bottle
@@ -16,7 +16,7 @@ def a():
 
     return"""
 
-    <h2<verkefni 1</h1>
+    <h2<verkefni 2</h1>
 
     <a href="/sida/1">LiðurA</a>
 
